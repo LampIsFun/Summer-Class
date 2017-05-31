@@ -25,4 +25,8 @@ public class CommitTester {
 		}
 		System.out.println("You printed: " + x);
 	}
+	
+	public void NewMethod() {
+		System.out.println("Testing new method added in commit.");
+	}
 }
